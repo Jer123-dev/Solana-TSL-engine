@@ -1,0 +1,16 @@
+# 🛑 SECRETS - NEVER UPLOAD
+.env
+
+# 📦 Node Modules & Build Files
+node_modules/
+dist/
+build/
+
+# 💾 Local Trading State
+positions.json
+positions.json.tmp
+test_output.log
+
+# 💻 System Files
+.DS_Store
+Thumbs.db
