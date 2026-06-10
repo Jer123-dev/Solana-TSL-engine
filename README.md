@@ -74,4 +74,3 @@ If this open-source bot made you money, consider dropping a tip! Your support he
 <p align="left">
   <img src="./qr.png" alt="Solana Tip QR Code" width="300"/>
 </p>
-*(Save the QR image provided as `qr.png` in the project root to display it here)*
